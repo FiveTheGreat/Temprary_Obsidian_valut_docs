@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "95a74da456cd2076",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7b4b7722a4e4a5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3b211486fecba0f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89852ab93ed53ad8",
+    "type": "split",
+    "children": [
+      {
+        "id": "14d5f3bcfc0d86ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26816b62b88a4684",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c4f42bbc42f4ccb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "db8a1fe0163f9bc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9463e9d532179786",
+    "type": "split",
+    "children": [
+      {
+        "id": "25e4f861bf40ee2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "517afecaca27e28b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/Python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Python"
+            }
+          },
+          {
+            "id": "cf64be3bd75db622",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/Python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python"
+            }
+          },
+          {
+            "id": "dce15ea4a4571fff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "48f56fcda65dd256",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/Python.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "26816b62b88a4684",
+  "lastOpenFiles": [
+    "Django/project_strcture.md",
+    "Certificate.md",
+    "Django/Django Basics.md",
+    "React/React_Hooks_Explained.md",
+    "Untitled",
+    "Django",
+    "React/README.md",
+    "React/React_Full_Conversation.md",
+    "React/React.md",
+    "Prop-X/Project - X.md",
+    "NodeJS/Stream.md",
+    "NodeJS/https:/github.com/FiveTheGreat/NodeJS_Learn.git",
+    "NodeJS/https:/github.com/FiveTheGreat",
+    "NodeJS/https:/github.com",
+    "NodeJS/https:",
+    "NodeJS/Path.md",
+    "NodeJS/NodeJS.md",
+    "NodeJS/HTTP.md",
+    "NodeJS/FS Sync.md",
+    "NodeJS/FS.md",
+    "FastAPI/DependecyInjection.md",
+    "FastAPI/Fast API.md",
+    "FastAPI/MiddleWare.md",
+    "FastAPI/FastAPICore.md",
+    "FastAPI/FastAPI_Complete_Guide.md",
+    "FastAPI/FastAPI_Basics.md",
+    "Python/Python Django.md",
+    "Python/Python.md",
+    "FastAPI/FastAPIDatabase.md",
+    "FastAPI.md",
+    "Books.md",
+    "Tailwind/Tailwind CSS.md",
+    "SQL",
+    "FastAPI",
+    "Pasted image 20240805130341.png",
+    "Python",
+    "Pasted image 20240807124255.png",
+    "Pasted image 20240723002413.png",
+    "Pasted image 20240723005538.png",
+    "Pasted image 20240729153228.png",
+    "AWS",
+    "Pasted image 20240805153222.png",
+    "Pasted image 20240805152559.png",
+    "Pasted image 20240805152350.png",
+    "Pasted image 20240805131411.png",
+    "Pasted image 20240805131114.png",
+    "Untitled.canvas"
+  ]
+}
